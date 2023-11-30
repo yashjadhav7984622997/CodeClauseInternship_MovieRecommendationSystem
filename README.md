@@ -1,0 +1,2 @@
+# CodeClauseInternship_MovieRecommendationSystem
+this project is about Movie Recommendation Syatem
